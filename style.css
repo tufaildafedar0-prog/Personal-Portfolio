@@ -461,3 +461,8 @@
                 left: 5px;
             }
         }
+
+        /*Smooth scrolling for all pages  */
+        html {
+            scroll-behavior: smooth;
+        }
