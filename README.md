@@ -75,6 +75,7 @@ The website is fully responsive and adapts to all screen sizes using CSS media q
 
 Open `index.html` in your browser to view the site locally.  
 Navigate using the navbar to explore About, Projects, and Contact pages.  
+If resume is not downloading so its not available yet , wait for me to upload new updated resume.
 
 **Download Resume:**  
 Click the resume button on the About page to view/download the PDF.
